@@ -8,7 +8,6 @@
 />
 </p>
 
-![Capa do Podcast](Capa_Química do Infravermelho.png)
 
 Este repositório reúne todos os arquivos desenvolvidos no desafio da DIO para criação de um podcast utilizando ferramentas de Inteligência Artificial. O projeto explora o uso de ChatGPT, ElevenLabs e técnicas de design para gerar um episódio completo sobre **Espectroscopia no Infravermelho (FTIR)** e suas aplicações.
 
@@ -51,9 +50,6 @@ O documento inclui:
   - Finalização  
 - Todos os prompts usados no ChatGPT  
 - Estrutura narrada no episódio  
-
-📘 **Download:**  
-👉 [Prompts e Roteiro do Podcast (DOCX)](Prompts e Roteiro do Podcast.docx)
 
 ---
 
