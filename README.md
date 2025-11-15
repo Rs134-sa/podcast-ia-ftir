@@ -1,6 +1,13 @@
 # 🎙️ Podcast – **Química do Infravermelho**
 ### **Subtítulo:** Processamento, interpretação e aplicações de FTIR
 
+<p align="center">
+<img 
+    src="Capa_Química do Infravermelho.png"
+    width="300"
+/>
+</p>
+
 ![Capa do Podcast](Capa_Química do Infravermelho.png)
 
 Este repositório reúne todos os arquivos desenvolvidos no desafio da DIO para criação de um podcast utilizando ferramentas de Inteligência Artificial. O projeto explora o uso de ChatGPT, ElevenLabs e técnicas de design para gerar um episódio completo sobre **Espectroscopia no Infravermelho (FTIR)** e suas aplicações.
